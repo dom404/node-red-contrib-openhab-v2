@@ -35,7 +35,7 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "node-red": "^0.19.2",
+    "node-red": "^0.20.8",
     "nodemon": "^1.18.4"
   }
 }
